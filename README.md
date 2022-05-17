@@ -1,6 +1,6 @@
 # es6iisnode
 
-Sample ES6 Code in iisnode
+<b>Sample ES6 Code in iisnode</b>
 
 This article shows how to make sure that ES6 Modules import work on Node.js on Windows App Service and also an introduction to ES modules as well as ES import.
 
